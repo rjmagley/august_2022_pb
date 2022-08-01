@@ -21,4 +21,4 @@ console.log(newVariable);
 // booleans ('bool')
 // true or false
 
-var newBoolean = true;
+var newBoolean = false;
