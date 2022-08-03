@@ -1,4 +1,5 @@
 var variableA = 7;
+
 var variableB = 3.14159;
 // whole numbers and floating points are both numbers
 // the symbol // indicates a comment
