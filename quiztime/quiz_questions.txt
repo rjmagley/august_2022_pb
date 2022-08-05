@@ -1,0 +1,60 @@
+1. Which of these is not a Javascript data type:
+a. number
+b. None
+c. boolean
+d. array
+
+null - python uses None
+
+2. An object is...
+a. any type of data in JavaScript
+b. a packet of data sent from computer to computer
+c. a key-value collection of data
+d. another name for an array
+
+3. .length will *not* return the length of...
+a. strings
+b. objects
+c. arrays
+
+4. The keyword to start delcaring a function in JavaScript is:
+a. def
+b. func
+c. fn
+d. function
+
+5. Java and JavaScript are related languages:
+a. true
+b. false
+
+6. JavaScript's initial purpose was for...
+a. handling database data
+b. adding interactivity to websites
+c. as a back-end language for building websites
+d. as a training language for new developers
+
+7. Xanadu is a color that is closest to being:
+a. brown with a tinge of red
+b. a little more yellow than green
+c. bluish-grey
+d. what if pink, but also purple?
+
+8. To declare two variables with the same name of 'sampleVar' and a value of 0, you would write
+var sampleVar = 0;
+then...
+
+a. var2 sampleVar = 0;
+b. var sampleVar[1] = 0;
+c. let sampleVar = 0;
+d. trick question - this isn't possible
+
+9.  All values in an array must be of the same datatype. True or False?
+a. True
+b. False
+
+10. Which of the following bits of code adds 1 to i?
+a. i = i + 1
+b. i += 1
+c. i++
+d. All of the above.
+

@@ -12,9 +12,9 @@ var arrayB = ['red', 'purple', 'green', 'seafoam', 'eggshell', 'xanadu', 'orange
 
 // we can loop through items in an array based on index
 // set up a for loop based on the array's length
-// for (var i = 0; i < arrayB.length; i++) {
-//     console.log(arrayB[i]);
-// }
+for (var i = 0; i < arrayB.length; i++) {
+    console.log(arrayB[i]);
+}
 
 arrayB[3] = 'aquamarine';
 console.log(arrayB);
